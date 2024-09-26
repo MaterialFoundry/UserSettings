@@ -1,0 +1,25 @@
+{
+    "id": "userSettings",
+    "title": "User Settings",
+    "description": "Library module to add user settings to Foundry VTT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Material Foundry",
+            "email": "info@materialfoundry.nl",
+            "discord": "Cris#6864",
+            "patreon": "MaterialFoundry",
+            "reddit": "CDeenen123"
+        }
+    ],
+    "esmodules": [
+        "./userSettings.js"
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "12"
+    },
+    "url": "https://github.com/MaterialFoundry/UserSettings",
+    "manifest": "https://github.com/MaterialFoundry/UserSettings/releases/latest/download/module.json",
+    "download": "https://github.com/MaterialFoundry/UserSettings/releases/download/v1.0.0/module.zip"
+}
