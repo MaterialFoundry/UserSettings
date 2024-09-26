@@ -33,8 +33,9 @@ game.userSettings.register("namespace", "key", {
 });
 ```
 
-That's all!<br>
+That's all!
+
 Settings can be set or gotten as usual:<br>
-`game.settings.set("namespace", key, value)`<br>
+`game.settings.set(namespace, key, value)`<br>
 and<br>
 `game.settings.get(namespace, key)`
